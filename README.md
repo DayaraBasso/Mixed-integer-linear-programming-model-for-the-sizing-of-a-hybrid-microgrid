@@ -3,7 +3,9 @@ Modelo de programação linear para o dimensionamento de uma microrrede híbrida
 Elaborado por: Dayara Pereira Basso
 
 Orientação: John Fredy Franco Baquero
+
 Processo FAPESP: 2021/14389-3
+
 
 
 Modelo implementado no AMPL e solucionado com o CPLEX.
